@@ -10,3 +10,4 @@ Scratch programming:
 > creativity, imagination, and interests.
 
 PDF version for download at http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf
+Scratch overview video: http://vimeo.com/65583694 (not sure this is the most suitable, maybe we can find others)
