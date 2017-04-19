@@ -22,3 +22,7 @@ From the https://www.dk.com/computercoding FAQ:
 > Why do computers need coding? Can't they do everything themselves?
 >
 >Computers might seem smart, but they're actually just boxes that follow instructions very accurately. Without instructions they wouldn't do anything.
+
+Scratch Cards at https://scratch.mit.edu/info/cards we can print out and laminate - every card has a Scratch
+programming concept on it. The cards are grouped per project they can be used in, for instance the Animate Your Name cards
+are in https://scratch.mit.edu/pdfs/cards/AnimateYourNameCards.pdf
