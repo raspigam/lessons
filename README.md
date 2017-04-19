@@ -8,3 +8,4 @@ The Lessons repository contains (links to) learning content for use within our c
 - [Graphic Design](graphic-design/README.md)
 - [Programming with Scratch](scratch/README.md)
 - [Making Music with Sonic Pi](sonicpi/README.md)
+- [Online International Communication](communication/README.md)
