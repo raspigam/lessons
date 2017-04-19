@@ -8,3 +8,4 @@ Scratch programming:
 > in a way that is disconnected from their interests and values  –  emphasizing technical detail over creative
 > potential. Creative computing supports the development of personal connections to computing, by drawing upon
 > creativity, imagination, and interests.
+PDF version for download at http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf
