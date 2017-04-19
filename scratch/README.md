@@ -2,6 +2,8 @@
 
 The Scratch programming lessons introduce the programming language and environment "Scratch" to pupils of age 10-15. 
 
+Reading at https://scratch.mit.edu/educators we find:
+
 The [Creative Computing Guide from Harvard](http://scratched.gse.harvard.edu/guide) takes the following perspective to
 Scratch programming:
 > Computer science and computing-related fields have long been introduced to young people
