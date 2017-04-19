@@ -11,3 +11,12 @@ Scratch programming:
 
 PDF version for download at http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf
 Scratch overview video: http://vimeo.com/65583694 (not sure this is the most suitable, maybe we can find others)
+
+From the https://www.dk.com/computercoding FAQ:
+> Why should I learn computer coding?
+>
+>Creating computer games and programs can be a lot of fun, and helps to strengthen logical thinking and problem-solving skills.  Plus there is a shortage of good coders, and the number of jobs that require coding is set to increase.
+
+> Why do computers need coding? Can't they do everything themselves?
+>
+>Computers might seem smart, but they're actually just boxes that follow instructions very accurately. Without instructions they wouldn't do anything.
