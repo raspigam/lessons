@@ -26,3 +26,5 @@ From the https://www.dk.com/computercoding FAQ:
 Scratch Cards at https://scratch.mit.edu/info/cards we can print out and laminate - every card has a Scratch
 programming concept on it. The cards are grouped per project they can be used in, for instance the Animate Your Name cards
 are in https://scratch.mit.edu/pdfs/cards/AnimateYourNameCards.pdf
+
+There are workshop guides per project, such as https://scratch.mit.edu/pdfs/guides/NameGuide.pdf for Animate Your Name.
