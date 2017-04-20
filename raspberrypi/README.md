@@ -5,3 +5,7 @@ This introductory course presents the Raspberry Pi computer to pupils of age 10-
 Sources:
 * https://www.raspberrypi.org/education/magpi-educators-edition
 * https://www.raspberrypi.org/picademy
+
+PDFs:
+- https://raspberrypi.org/magpi-issues/MagPi49.pdf
+- https://www.tes.com/teaching-resource/getting-started-with-raspberry-pi-11146710
