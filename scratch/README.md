@@ -2,6 +2,9 @@
 
 The Scratch programming lessons introduce the programming language and environment "Scratch" to pupils of age 10-15. 
 
+We might have to take an "unplugged" or hybrid approach initially as we have only a few Raspberry Pi computers available
+at the moment. See the [unplugged](./unplugged/README.md) section.
+
 Reading at https://scratch.mit.edu/educators we find:
 
 The [Creative Computing Guide from Harvard](http://scratched.gse.harvard.edu/guide) takes the following perspective to
