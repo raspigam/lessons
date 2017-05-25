@@ -8,7 +8,7 @@ Pi computers.
 
 * [CS Unplugged](http://csunplugged.org)
 * [Vector graphics Scratch Blocks for printing](http://scratched.gse.harvard.edu/resources/vector-scratch-blocks)
-  - A few types of blocks are missing; we might want to set up a github repo to extend the set
+  - A few types of blocks are missing; we set up a github repo to extend the bundle at https://github.com/raspigam/vector-scratch-blocks
 * [A Space Race Game on paper](https://www.fractuslearning.com/2014/11/18/coding-with-paper-printable-game)
 * [My Robotic Friends](https://csedweek.org/files/CSEDrobotics.pdf)
   - Take turns being a robot and get programmed by your fellow team members
