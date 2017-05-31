@@ -11,6 +11,6 @@
 
 ## Reference
 
-* http://emojisaurus.com
 * https://emojipedia.org
+* http://emojisaurus.com
 * http://allthingslinguistic.com/tagged/roundup - A linguist's blog with posts on the (non-)language of emoji
