@@ -1,4 +1,4 @@
-# Emojis
+# Emoji
 
 ## How to have (more) emoticons displayed on Raspberry Pi (Raspbian)?
 
