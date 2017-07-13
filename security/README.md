@@ -6,4 +6,5 @@ Learn about how to keep your computer and yourself safe while being online.
 
 * How does online sign up / log in work in general?
 * Coming up with a secure password when signing up for something
+* Password management
 * Which details would you share, how to determine which ones are really needed at some point, when to refuse?
