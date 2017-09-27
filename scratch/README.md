@@ -2,6 +2,8 @@
 
 The Scratch programming lessons introduce the programming language and environment "Scratch" to pupils of age 10-15. 
 
+[Programming with Scratch 2017 Sanyang Computer Lab course](./Sanyang-2017/README.md)
+
 We might have to take an "unplugged" or hybrid approach initially as we have only a few Raspberry Pi computers available
 at the moment. See the [unplugged](./unplugged/README.md) section.
 
