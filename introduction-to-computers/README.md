@@ -1,4 +1,4 @@
-# Introduction to computers
+# Introduction to computers and computing
 
 Here we collect proposed additions to an existing course as it is given at Jambanjelly Upper Basic School.
 
@@ -7,3 +7,4 @@ Here we collect proposed additions to an existing course as it is given at Jamba
   * the Raspberry Pi bridges microcontroller concepts to mobile and personal computing technology
 * Practical details and useful facts of SD storage cards
   * SD cards form an increasingly important storage medium as it is often the sole form of (extension) storage for mobile devices
+* Computing concepts and the types of problems computers can help us with
