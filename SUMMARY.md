@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction to computing](./computing/README.md)
+* [Introduction to computers and computing](./computing/README.md)
 * [Introduction to the Raspberry Pi](./raspberrypi/README.md)
 * [Programming with Scratch](./scratch/README.md)
 * [Problem solving](./problem-solving/README.md)
