@@ -1,5 +1,8 @@
 # Lessons
-The Lessons repository contains (links to) learning content for use within our curriculum.
+The Lessons repository contains ideas and (links to) learning content for use within our curriculum. A single lesson
+series could incorporate several of these subjects, for instance Programming with Scratch includes elements of
+Online Communication because the online sharing aspect of Scratch projects, refer to the Programming with Scratch chapter
+for details.
 
 ## Contents
 - [Introduction to the Raspberry Pi](raspberrypi/README.md)
