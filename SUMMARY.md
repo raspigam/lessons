@@ -1,11 +1,11 @@
 # Summary
 
-* Introduction to computing
-* Introduction to the Raspberry Pi
-* Programming with Scratch
-* Problem solving
-* Making music with SonicPi
-* Graphic design
-* Office essentials
-* Computer and internet security
-* Online international communication
+* [Introduction to computing](./computing/README.md)
+* [Introduction to the Raspberry Pi](./raspberrypi/README.md)
+* [Programming with Scratch](./scratch/README.md)
+* [Problem solving](./problem-solving/README.md)
+* [Making music with SonicPi](./sonicpi/README.md)
+* [Graphic design](./graphic-design/README.md)
+* [Office essentials](./office/README.md)
+* [Computer and internet security](./security/README.md)
+* [Online communication](./communication/README.md)
