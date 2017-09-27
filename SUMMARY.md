@@ -6,6 +6,6 @@
 * [Problem solving](./problem-solving/README.md)
 * [Making music with SonicPi](./sonicpi/README.md)
 * [Graphic design](./graphic-design/README.md)
-* [Office essentials](./office/README.md)
+* [Office essentials](./office-essentials/README.md)
 * [Computer and internet security](./security/README.md)
 * [Online communication](./communication/README.md)
