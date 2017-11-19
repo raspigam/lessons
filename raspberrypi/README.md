@@ -30,3 +30,23 @@ PDFs:
   processor really is of the kind used in smart phones, tablets as well as e.g. network attached storage (NAS) and TV set 
   top box devices. The main advantage of this is that it pairs a decent overall performance and good video playing
   capabilities with very low power requirements.
+
+### Demonstrating the capabilities of the Raspberry Pi
+
+When using the Raspbian operating system on the Pi you can find a set of demonstration programs which can be run from the
+terminal prompt.
+
+* Open a terminal (in the top left Raspbian main menu, select `Accessories` and then `Terminal`)
+* Go to the demonstration programs directory by typing `cd /opt/vc/src/hello_pi` (and hit the `enter` key)
+* Type `./rebuild.sh` (and hit enter) to have all programs built ("compiled" as they say) - a lot of text will scroll by
+* Type `ls` (+enter) to inspect what demos are available
+* E.g. there is a video demonstration, showing that the Pi is capable of displaying smooth full HD video; you can run this
+  demo by typing `cd hello_video` (+enter) to go into the video demo directory and `./hello_video.bin test.h264` (+enter) to
+  play the test video provided (15 seconds of an animation called Big Buck Bunny)
+* Any demonstration can be stopped by pressing `ctrl-c`
+* After viewing you can return to the other demos by typing `cd ..` (+enter) and typing another `cd` but then with the name
+  of an other demo you'd like to see (e.g. `cd hello_teapot` to go into the directory of the 3D teapot demonstration and
+  executing `./hello_teapot.bin` )
+* Remember to use `cd ..` to go back into the main demonstrations folder!
+
+https://www.raspberrypi.org/documentation/usage/demos/README.md
